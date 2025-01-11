@@ -1,2 +1,1 @@
-# NiceDataServer
-A Nice Data Server to store data :)
+Mai Server to store things that i need
